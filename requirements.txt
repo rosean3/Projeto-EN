@@ -4,3 +4,8 @@ torchvision==0.9.1+cpu
 fastai
 voila
 ipywidgets==7.6.3
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
