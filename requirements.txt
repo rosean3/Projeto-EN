@@ -1,0 +1,6 @@
+voila
+fastai==2.4
+fastbook
+pillow<7
+packaging
+ipywidgets==7.6.3
